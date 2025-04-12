@@ -75,6 +75,21 @@ Me chamo Robert Ferreira, tenho 20 anos e sou natural de Salvador, atualmente mo
 <br/>
 <br/>
 
+---
+
+### 💡 Soft Skills
+
+- **🗣️ Comunicação clara**: Capacidade de explicar conceitos e ideias através dos dashboards e textos de forma eficiente.
+- **🤝 Trabalho em equipe**: Habilidade para trabalhar de forma colaborativa e integrar diferentes perspectivas para alcançar um objetivo comum.
+- **🧠 Pensamento crítico**: Capacidade de analisar problemas complexos e pensar em soluções criativas e eficazes.
+- **🔄 Adaptabilidade**: Facilidade para aprender novas tecnologias e se ajustar rapidamente a ambientes dinâmicos.
+- **⏳ Gestão de tempo**: Organização e priorização de tarefas para cumprir prazos de maneira eficiente.
+- **⚙️ Resolução de problemas**: Aptidão para diagnosticar e resolver desafios técnicos com soluções práticas e eficientes.
+
+
+---
+
+
 ### 📊 Estatísticas
 
 <table>
